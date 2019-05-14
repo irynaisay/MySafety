@@ -6,7 +6,7 @@ Today, mobile phones are essential part of our life. This app allows preventing 
 
 _____________________
 
-# HOW TO PROTECT MY MOBILE PHONE?
+# HOW TO PROTECT MY MOBILE PHONE? 
 
 These are easy steps to protect you mobile phone!
 
