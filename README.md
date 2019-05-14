@@ -8,9 +8,9 @@ _____________________
 
 # HOW TO PROTECT MY MOBILE PHONE? 
 
-These are easy steps to protect you mobile phone!
+These are 5 easy steps to protect you mobile phone!
 
-*Attention! This app is for Android only*
+*Attention! This app is for Android only.*
 
 **1. ACCESS PLAY MARKET AND FIND "МОБІЛЬНА БЕЗПЕКА" APP BY MYSAFETY UKRAINE. DOWNLOAD IT TO YOUR MOBILE PHONE**
 
