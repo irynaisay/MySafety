@@ -19,8 +19,9 @@ These are easy steps to protect you mobile phone!
 **2. Once downloaded, continue to installation:**
 
 2.1. Read the summary of functions
+
 2.2. Press "Далі" to agree with Privacy Policy and continue installation.
 
-2.3.
+2.3. In the License Agreement, tick the box and press "Далі".
 
 ![alt text](https://sketch.io/render/sk-c647ab7f146f4e72b99cf002f558ddf6.jpeg)
