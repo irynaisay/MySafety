@@ -24,8 +24,20 @@ These are easy steps to protect you mobile phone!
 
 2.3. In the License Agreement, tick the box and press "Далі".
 
-2.3.1 Please allow administrator functions. 
+![alt text](https://sketch.io/render/sk-502a3b2ee36aba701ecc17d755ed19de.jpeg)
 
-![alt text](https://sketch.io/render/sk-c647ab7f146f4e72b99cf002f558ddf6.jpeg)
+2.3.1 Please allow administrator functions. Read more about administartion functions below:
+
+![alt text](https://sketch.io/render/sk-ba5f51b1c4f18d4b35dd51bebf13da5b.jpeg)
+
+**3. ENTER YOUR KYIVSTAR MOBILE PHONE NUMBER TO DETECT THE SIM.**
+
+![alt text](https://sketch.io/render/sk-e3c4031c8305721851af2dfe1bd80ca3.jpeg)
+
+**REGISTER ON**
+
+To register and access content services, enter your personal data: your name, a way to in contact you in case the mobile phone is lost, security question and answer, and a type of connection.
+
+![alt text](https://sketch.io/render/sk-daed7b03c92e6ed5ab8476647631fdb6.jpeg)
 
 ****
