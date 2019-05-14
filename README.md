@@ -10,7 +10,7 @@ _____________________
 
 These are easy steps to protect you mobile phone!
 
-*For Android*
+*Attention! This app is for Android only*
 
-**1. Access Play Market and find **
+**1. Access Play Market and find "Моя безпека" app produced by MySafety**
 ![alt text](https://sketch.io/render/sk-ea752ac05c8697768501dda99d149bd1.jpeg)
