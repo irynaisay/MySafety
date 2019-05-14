@@ -36,7 +36,7 @@ These are easy steps to protect you mobile phone!
 
 **4. REGISTER ON**
 
-To register and access content services, enter your personal data: your name, a way to contact you in case the mobile phone is lost, security question and answer, and a type of connection. There are two types of connection: Security and Security+. See details [here](https://mb.kyivstar.ua/index.php).
+To register and access content services, enter your personal data: your name, a way to contact you in case the mobile phone is lost, security question and answer, and a type of connection. There are two types of connection: "Безпека" and "Безпека+". See details [here](https://mb.kyivstar.ua/index.php).
 
 ![alt text](https://sketch.io/render/sk-daed7b03c92e6ed5ab8476647631fdb6.jpeg)
 
